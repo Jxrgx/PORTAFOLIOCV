@@ -8,7 +8,7 @@ export default function Inicio() {
       {/* HERO */}
       <section className="text-center mb-20">
         <h1 className="text-4xl font-light tracking-tight">Jorge Castroo</h1>
-        <p className="text-md text-neutral-500 mt-2">Diseñador</p>
+        <p className="text-md text-neutral-500 mt-2">Desarrollador</p>
         <p className="mt-6 italic text-neutral-400">“Transformo ideas en interfaces funcionales y atractivas.”</p>
 
         <div className="mt-8 flex justify-center gap-4">
