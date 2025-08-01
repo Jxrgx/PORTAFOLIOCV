@@ -1,7 +1,7 @@
 import SectionTitle from "../components/SectionTitle";
 import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa";
 
-export default function Contacto() {
+export default function Contacto (){
   return (
     <div className="p-8 max-w-3xl mx-auto text-neutral-900">
       <SectionTitle>Contacto</SectionTitle>
