@@ -1,6 +1,6 @@
 import SectionTitle from "../components/SectionTitle";
 
-export default function AcercaDeMi() {
+export default function AcercaDeMi (){
   return (
     <div className="p-8 max-w-4xl mx-auto text-neutral-900">
 
