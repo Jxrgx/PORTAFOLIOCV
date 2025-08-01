@@ -1,6 +1,6 @@
 import SectionTitle from "../components/SectionTitle";
 
-export default function Devlogs() {
+export default function Devlogs (){
   const devlogs = [
     {
       titulo: "Bitácora #1 – Inicio del proyecto",
